@@ -1,0 +1,20 @@
+<CodeBabel> Windows Key Backup ~ 201x
+
+[ EN ]
+The purpose of the script is to protect your Windows Genuine product key,
+for new installation, any inappropriate use is entirely the user's responsibility.
+
+Just run and the file with computer name and your key data will be in a txt,
+on your desktop.
+
+[ PTBR ]
+O objetivo do script é proteger sua chave do produto Windows Genuine,
+para nova instalação, qualquer uso inadequado é de inteira responsabilidade do usuário.
+
+Só rodar e o arquivo com nome do computador e os dados da sua chave
+estarão em um txt, na sua área de trabalho. 
+
+[[ Bye/Valeu ]]
+
+EN> Use it wisely, this tool will make your job easier...
+BR> Use com sabedoria, essa ferramenta vai facillitar seu trabalho...
