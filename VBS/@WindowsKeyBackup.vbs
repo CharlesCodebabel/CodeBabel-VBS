@@ -56,8 +56,8 @@ Function ConvertToKey(Key)
     
      
 End Function
+'Save data to a file
 
-'Save data to a file 
 Function Save(Data)
 'Get Hostname
 Dim wshNetwork, strComputerName 
